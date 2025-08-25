@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @satyam7887
+- 👋 Hi, I’m satyam mishra
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning learning python
-- 💞️ I’m looking to collaborate on project based on python
+- 💞️ I’m looking to collaborate on project based on python and Power Platform
 - 📫 How to reach me satyam072000@gmail.com
 - 📫 I am Power Platfrom Developer Associate
 - 📫 I love to solve problem related to Low Code No Code
